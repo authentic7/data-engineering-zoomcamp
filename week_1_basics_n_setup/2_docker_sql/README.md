@@ -278,6 +278,6 @@ docker build --help
 
 ### Understanding docker first run
 
-docker run -it python:3.9
+docker run -it python:3.9 bash
 pip list 
 
